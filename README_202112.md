@@ -19,14 +19,14 @@
 | 一个人的安全笔记 | xjiek2015 | [HTB] Armageddon Writeup | https://mp.weixin.qq.com/s/vizmtNhYW4r-kETt4qJuww | 1| 
 | 阿里云应急响应 | gh_12f3517e40de | 【漏洞预警】Apache Log4j2 远程代码执行漏洞二次更新通告 | https://mp.weixin.qq.com/s/AuBchaUvFw2pisVw6rNX5A | 1| 
 | 长亭安全课堂 | chaitintech_release | 反向探测互联网扫描器 | https://mp.weixin.qq.com/s/Cha_hTGOh-GGVkaZRdFujw | 1| 
+| 绿盟科技威胁情报 | NSFOCUS_NTI | 安全知识图谱｜知识图谱视角下的威胁评估 | https://mp.weixin.qq.com/s/VDU0z5XNM3CmEIU6sC6jrA | 1| 
 | 看雪学苑 | ikanxue | 基于模糊加权随机森林算法的恶意软件检测 | https://mp.weixin.qq.com/s/ytvN73RMv4b9NtSs0vqqPg | 1| 
+| 海淀检察院 | hdpp1955 | 全文｜海淀区检察院发布《网络科技犯罪典型案例》 | https://mp.weixin.qq.com/s/GSod_Mbebfc5tIyNN7uusg | 1| 
 | 数世咨询 | dwconcn | 利用DoH技术加密传输的DNS隧道流量检测分析 | https://mp.weixin.qq.com/s/TY17e0hpW0b9n4eQtcvaeg | 1| 
 | 安全研究GoSSIP | GoSSIPSJTU | G.O.S.S.I.P 学术论文特别推荐 2021-11-29——邮件安全的27年漫漫路 | https://mp.weixin.qq.com/s/U5r7fzsGgjD5IZIh3LIcWA | 1| 
+| 安全乐观主义 | gh_d6239d0bb816 | 安全运营项目的工作方法 | https://mp.weixin.qq.com/s/UkOHsg5I6v8JJrsKucEewA | 1| 
 | 乐枕迭代日志 | cdxy_011 | API经济下的安全变局 | https://mp.weixin.qq.com/s/oXHcoLE5WkEer24mz7BqUg | 1| 
 | Yak Project | YakLanguage | 如何使用Yakit进行流量劫持 | https://mp.weixin.qq.com/s/9vVRTehwAhkSLM65JaKiQA | 1| 
-| 绿盟科技威胁情报 | NSFOCUS_NTI | 安全知识图谱｜知识图谱视角下的威胁评估 | https://mp.weixin.qq.com/s/VDU0z5XNM3CmEIU6sC6jrA | 1| 
-| 海淀检察院 | hdpp1955 | 全文｜海淀区检察院发布《网络科技犯罪典型案例》 | https://mp.weixin.qq.com/s/GSod_Mbebfc5tIyNN7uusg | 1| 
-| 安全乐观主义 | gh_d6239d0bb816 | 安全运营项目的工作方法 | https://mp.weixin.qq.com/s/UkOHsg5I6v8JJrsKucEewA | 1| 
 | Netlab 三六零 | Netlab_360 | 解析服务提供商对非授权域名解析情况的评估 | https://mp.weixin.qq.com/s/v5kcg9XZGb8DwtpNgHXRCQ | 1| 
 | 安全学术圈 | secquan | 利用轻量级权限系统遏制恶意NPM软件包更新 | https://mp.weixin.qq.com/s/XTbY3plfEpuPhYc7KQdnaA | 3| 
 | 金融电子化 | fcmag1993 | 孙磊：数据中心智能安全运营体系建设探索与实践 | https://mp.weixin.qq.com/s/omM1xphG_ie9GDjsu34s3w | 1| 
@@ -45,6 +45,8 @@
 | github_id | title | url | p_url | p_profile | p_loc | p_company | p_repositories | p_projects | p_stars | p_followers | p_following | repo_lang | repo_star | repo_forks | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---| 
 | l0ggg | VMware vCenter 7.0.2.00100 版本任意文件读、SSRF、XSS 漏洞 | https://github.com/l0ggg/VMware_vCenter | https://github.com/l0ggg?tab=followers |  | None | None | 2 | 0 | 0 | 0 | 0 | Java | 0 | 0 | 1| 
+| facebook | SAPP - Facebook 开发的用于处理静态代码分析工具 Pysa 分析结果的工具 | https://github.com/facebook/sapp | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
+| RedDrip7 | 使用 Apache Log4j RCE 漏洞发起攻击的源 IP 收集（IOC） | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs | https://github.com/RedDrip7?tab=followers | Technical Twitter of QiAnXin Technology, leading Chinese security vendor. It is operated by RedDrip Team which focuses on malware, APT and threat intelligence. | China | Qianxin | 7 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | EmYiQing | JSPKiller: 基于污点分析的JSP Webshell检测工具 | https://github.com/EmYiQing/JSPKiller | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 
 
@@ -68,6 +70,7 @@
 # zhihu_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| 从Log4shell事件看资产风险运营工程化的困局与盲点 | https://zhuanlan.zhihu.com/p/445372045| 
 
 
 # xz_xuanwu 推荐

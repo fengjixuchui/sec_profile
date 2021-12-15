@@ -14,9 +14,9 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 海淀检察院 | hdpp1955 | 全文｜海淀区检察院发布《网络科技犯罪典型案例》 | https://mp.weixin.qq.com/s/GSod_Mbebfc5tIyNN7uusg | 1| 
 | 乐枕迭代日志 | cdxy_011 | API经济下的安全变局 | https://mp.weixin.qq.com/s/oXHcoLE5WkEer24mz7BqUg | 1| 
 | Yak Project | YakLanguage | 如何使用Yakit进行流量劫持 | https://mp.weixin.qq.com/s/9vVRTehwAhkSLM65JaKiQA | 1| 
-| 海淀检察院 | hdpp1955 | 全文｜海淀区检察院发布《网络科技犯罪典型案例》 | https://mp.weixin.qq.com/s/GSod_Mbebfc5tIyNN7uusg | 1| 
 | 数据法盟 | Datalaws | 重磅全文 ,《上海市数据条例》公布 | https://mp.weixin.qq.com/s/_sCL1FBQe3hJNhIZrnVdwQ | 1| 
 | 工业技术软件化产业联盟 | gh_96ac3d272f58 | 【图解】《“十四五”软件和信息技术服务业发展规划》 | https://mp.weixin.qq.com/s/6nJ7tpo5qu8zVI8nYDQAnA | 1| 
 | 路云天网络安全研究院 | gh_5237039d3db1 | 云天百家第5期：5G专网安全风险与技术方案 | https://mp.weixin.qq.com/s/6K3RQtjzAvtyYNkavuHuaw | 1| 
@@ -2720,7 +2720,7 @@
 | deralexxx | security-apis - 安全相关服务的公共 JSON API 收集列表: | https://github.com/deralexxx/security-apis | https://alexanderjaeger.de | Writes, bash, python, and some more. Interested in Security and APIs | None | None | 78 | 0 | 124 | 74 | 35 | Python | 0 | 0 | 1| 
 | darkarnium | Published Router vulnerabilities and associated information. | https://github.com/darkarnium/secpub | http://www.kernelpicnic.net | (Dev)*(Sec)*Ops and Security Research. | Guildford, UK | None | 29 | 0 | 3 | 74 | 3 | Python,HTML,Ruby | 126 | 34 | 1| 
 | aipengjie | sensitivefilescan: 目录遍历与敏感文件扫描工具 | https://github.com/aipengjie/sensitivefilescan | None | 社会主义接班人 | hangzhou china | None | 118 | 0 | 712 | 74 | 104 | Python,PHP,Java | 121 | 67 | 1| 
-| RedDrip7 | RedDrip7团队收集恶意软件家族样本，帮助安全社区对抗恶意软件和针对性攻击。 | https://github.com/RedDrip7/APT_Digital_Weapon | https://ti.qianxin.com/blog/ | Technical Twitter of QiAnXin Technology, leading Chinese security vendor. It is operated by RedDrip Team which focuses on malware, APT and threat intelligence. | China | Qianxin | 3 | 0 | 0 | 74 | 0 |  | 122 | 23 | 1| 
+| RedDrip7 | RedDrip7团队收集恶意软件家族样本，帮助安全社区对抗恶意软件和针对性攻击。 | https://github.com/RedDrip7/APT_Digital_Weapon | https://ti.qianxin.com/blog/ | Technical Twitter of QiAnXin Technology, leading Chinese security vendor. It is operated by RedDrip Team which focuses on malware, APT and threat intelligence. | China | Qianxin | 3 | 0 | 0 | 74 | 0 |  | 122 | 23 | 2| 
 | 0xdeadbeefJERKY | Office-DDE-Payloads - 生成嵌入 DDE 的 恶意 Office 文档的脚本: | https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads | https://0xdeadbeefjerky.com | (Information,Cyber) security professional with particular interest in mobile security, red teaming and exploit development. | None | None | 15 | 0 | 132 | 74 | 30 | Python,PowerShell,HCL,CSS | 413 | 104 | 1| 
 | n3k | Slides of CansecWest2016 - Getting Physical: Extreme Abuse of Intel Based Paging Systems: | https://github.com/n3k/CansecWest2016_Getting_Physical_Extreme_Abuse_of_Intel_Based_Paging_Systems | https://twitter.com/kiqueNissim |  | None | None | 41 | 0 | 45 | 73 | 14 | Python,C,C++ | 38 | 22 | 2| 
 | gannimo | memTrace: a framework for lightweight memory tracing | https://github.com/gannimo/memTrace | http://nebelwelt.net |  | West Lafayette | Purdue University | 4 | 0 | 0 | 73 | 0 | TeX,C,Java | 45 | 9 | 1| 
@@ -4111,7 +4111,7 @@
 | fanglingsu | Vimb- 一款Vim的web浏览器项目 | https://github.com/fanglingsu/vimb | https://fanglingsu.github.io/ |  | Jena, Germany | None | 9 | 0 | 0 | 0 | 0 | C,Shell | 911 | 82 | 1| 
 | falstaff84 | Heartbleed test script for OpenVPN | https://github.com/falstaff84/heartbleed_test_openvpn | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | falexorr | Siofra - DLL 劫持漏洞扫描器、PE 感染工具: | https://github.com/falexorr/Siofra | None |  | None | None | 1 | 0 | 0 | 0 | 0 | Assembly | 2 | 0 | 1| 
-| facebook | Mariana Trench - Facebook 开源的一款 Android 静态漏洞扫描工具 | https://github.com/facebook/mariana-trench/ | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Python,JavaScript,OCaml,C++,Objective-C,Jupyter,Ruby | 0 | 0 | 1| 
+| facebook | Mariana Trench - Facebook 开源的一款 Android 静态漏洞扫描工具 | https://github.com/facebook/mariana-trench/ | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Python,JavaScript,OCaml,C++,Objective-C,Jupyter,Ruby | 0 | 0 | 2| 
 | fabacab | 蓝队最好的学习资源项目。 | https://github.com/fabacab/awesome-cybersecurity-blueteam | None | ⚑ Ⓐnti-capitalist Free Software developer, Black Lives Matter, abolish all prisons, 0xACAB ⚑ | None | Code signing GPG key: 0x15FC01926CB6D75614790893B0303BF6BA36A560 | 197 | 0 | 0 | 0 | 0 | Shell,HTML,PHP | 1100 | 248 | 1| 
 | eugeneyan | 面向产品的机器学习/数据科学相关资源 | https://github.com/eugeneyan/applied-ml#anomaly-detection | http://eugeneyan.com | Applied Machine Learning | Seattle x Singapore | None | 39 | 0 | 0 | 0 | 0 | Python,Jupyter | 819 | 85 | 1| 
 | eth-sri | 利用机器学习的方法还原（推测）被 strip 过的二进制程序的调试符号信息 | https://github.com/eth-sri/debin | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,D,Python,Mathematica,C++,C#,HTML,SMT,JavaScript | 0 | 0 | 1| 
@@ -4708,6 +4708,7 @@
 # zhihu_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| 从Log4shell事件看资产风险运营工程化的困局与盲点 | https://zhuanlan.zhihu.com/p/445372045| 
 | Automatic Feature Learning for Predicting Vulnerable Softw... | https://zhuanlan.zhihu.com/p/435957686| 
 | 《Instructions for PhD Students》：Dimitris给PhD学生的忠告 | https://zhuanlan.zhihu.com/p/400248999| 
 | Devign:基于GNN的源代码漏洞检测 | https://zhuanlan.zhihu.com/p/433608077| 

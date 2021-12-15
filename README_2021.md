@@ -15,10 +15,10 @@
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
 | 长亭安全课堂 | chaitintech_release | 反向探测互联网扫描器 | https://mp.weixin.qq.com/s/Cha_hTGOh-GGVkaZRdFujw | 1| 
-| 乐枕迭代日志 | cdxy_011 | API经济下的安全变局 | https://mp.weixin.qq.com/s/oXHcoLE5WkEer24mz7BqUg | 1| 
-| Yak Project | YakLanguage | 如何使用Yakit进行流量劫持 | https://mp.weixin.qq.com/s/9vVRTehwAhkSLM65JaKiQA | 1| 
 | 海淀检察院 | hdpp1955 | 全文｜海淀区检察院发布《网络科技犯罪典型案例》 | https://mp.weixin.qq.com/s/GSod_Mbebfc5tIyNN7uusg | 1| 
 | 安全乐观主义 | gh_d6239d0bb816 | 安全运营项目的工作方法 | https://mp.weixin.qq.com/s/UkOHsg5I6v8JJrsKucEewA | 1| 
+| 乐枕迭代日志 | cdxy_011 | API经济下的安全变局 | https://mp.weixin.qq.com/s/oXHcoLE5WkEer24mz7BqUg | 1| 
+| Yak Project | YakLanguage | 如何使用Yakit进行流量劫持 | https://mp.weixin.qq.com/s/9vVRTehwAhkSLM65JaKiQA | 1| 
 | Netlab 三六零 | Netlab_360 | 解析服务提供商对非授权域名解析情况的评估 | https://mp.weixin.qq.com/s/v5kcg9XZGb8DwtpNgHXRCQ | 1| 
 | 金融电子化 | fcmag1993 | 孙磊：数据中心智能安全运营体系建设探索与实践 | https://mp.weixin.qq.com/s/omM1xphG_ie9GDjsu34s3w | 1| 
 | 数据法盟 | Datalaws | 重磅全文 ,《上海市数据条例》公布 | https://mp.weixin.qq.com/s/_sCL1FBQe3hJNhIZrnVdwQ | 1| 
@@ -471,7 +471,7 @@
 | firmianay | firmeye - IoT固件漏洞挖掘工具 | https://github.com/firmianay/firmeye | https://github.com/XDSEC | Security researcher & CTF Player & member of @XDSEC, @xdlinux, @LCTF | China | Xidian University | 24 | 0 | 0 | 0 | 0 | Python,C | 0 | 0 | 1| 
 | ffuf | Fast web fuzzer written in Go | https://github.com/ffuf/ffuf | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Go,Shell | 0 | 0 | 1| 
 | ffffffff0x | f8x: 红/蓝队环境自动化部署工具 | https://github.com/ffffffff0x/f8x | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Shell,Java,HTML | 0 | 0 | 1| 
-| facebook | Mariana Trench - Facebook 开源的一款 Android 静态漏洞扫描工具 | https://github.com/facebook/mariana-trench/ | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Python,JavaScript,OCaml,C++,Objective-C,Jupyter,Ruby | 0 | 0 | 1| 
+| facebook | Mariana Trench - Facebook 开源的一款 Android 静态漏洞扫描工具 | https://github.com/facebook/mariana-trench/ | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Python,JavaScript,OCaml,C++,Objective-C,Jupyter,Ruby | 0 | 0 | 2| 
 | esrrhs | pingtunnel: ICMP流量伪装转发工具 | https://github.com/esrrhs/pingtunnel | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | dsopas | MindAPI: Bringing order to API hacking chaos | https://github.com/dsopas/MindAPI | https://www.davidsopas.com | /me hacks! the webz | Portugal | Char49 | 14 | 0 | 0 | 0 | 0 | Go | 0 | 0 | 1| 
 | diversenok | 基于 Windows Native API 与电源管理组件交互 | https://github.com/diversenok/Powercfg | http://diversenok.github.io | Windows security researcher & system programmer. Student. | Russia / The Netherlands | None | 19 | 0 | 0 | 0 | 0 | Pascal,C | 4300 | 746 | 1| 
@@ -505,6 +505,7 @@
 | Siguza | libkrw - 为不同越狱工具提供一个 iOS kernel 读写 API 接口 | https://github.com/Siguza/libkrw | https://siguza.net |  | Switzerland | None | 50 | 0 | 0 | 0 | 0 | C,Assembly,Objective-C | 0 | 0 | 1| 
 | S3cur3Th1sSh1t | MultiPotato - 一个改进版的 Potato，可以使用自己的漏洞作为 SYSTEM Auth Trigger | https://github.com/S3cur3Th1sSh1t/MultiPotato | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | S1ckB0y1337 | Cobalt-Strike 相关的一些工具以及使用 Tips | https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet | https://app.hackthebox.eu/profile/1109 | Penetration Tester , OSCP , Comp.Sci Student , CTF Player | Greece | None | 99 | 0 | 0 | 0 | 0 | Java,C++ | 1200 | 322 | 1| 
+| RedDrip7 | 使用 Apache Log4j RCE 漏洞发起攻击的源 IP 收集（IOC） | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs | https://github.com/RedDrip7?tab=followers | Technical Twitter of QiAnXin Technology, leading Chinese security vendor. It is operated by RedDrip Team which focuses on malware, APT and threat intelligence. | China | Qianxin | 7 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
 | Ramos-dev | graph4code: 基于图数据库的软件漏洞解析方法 | https://github.com/Ramos-dev/graph4code | https://github.com/Ramos-dev?tab=followers | Build a successful infrastructure. | Mount Carmel | None | 39 | 0 | 0 | 0 | 0 | TypeScript,Java | 0 | 0 | 1| 
 | RPwnage | iOS 14.5 WebKit/Safari based Jailbreak | https://github.com/RPwnage/pwn-my | https://github.com/RPwnage?tab=followers | German Security researcher and Developer. When i dont create stuff, i fix stuff. | Germany | Manticore | 35 | 1 | 0 | 0 | 0 | HTML,Shell,Objective-C,JavaScript,C | 0 | 0 | 1| 
 | RASSec | WebExp: 2020年~2021年 网站CMS、中间件、框架系统漏洞集合 | https://github.com/RASSec/WebExp | https://github.com/RASSec?tab=followers | Bug Bounty Hunter | Beijing | None | 667 | 0 | 0 | 0 | 0 | C,Java,Classic,Python,JavaScript,C++,HTML,Go,PHP,Ruby | 0 | 0 | 1| 
@@ -652,6 +653,7 @@
 # zhihu_secwiki 推荐
 | title | url| 
 | --- | ---| 
+| 从Log4shell事件看资产风险运营工程化的困局与盲点 | https://zhuanlan.zhihu.com/p/445372045| 
 | Automatic Feature Learning for Predicting Vulnerable Softw... | https://zhuanlan.zhihu.com/p/435957686| 
 | 《Instructions for PhD Students》：Dimitris给PhD学生的忠告 | https://zhuanlan.zhihu.com/p/400248999| 
 | Devign:基于GNN的源代码漏洞检测 | https://zhuanlan.zhihu.com/p/433608077| 
