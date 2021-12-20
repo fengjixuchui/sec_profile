@@ -168,4 +168,4 @@ if __name__ == "__main__":
     # }
     proxy = None
     so = SQLiteOper("data/scrap.db")
-    scraw(so, proxy=proxy, delta=7)
+    scraw(so, proxy=proxy, delta=14)
