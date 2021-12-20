@@ -14,6 +14,9 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| Tide安全团队 | TideSec | 几款小众而实用的远控软件 | https://mp.weixin.qq.com/s/uYpNH2cwjsOoDl6ZTyVtUw | 1| 
+| Moonlight Bug Hunter | gh_1ec00ecad45d | Codeql 挖洞？ | https://mp.weixin.qq.com/s/-4E08dNeCdsc51VLE9qMAQ | 1| 
+| GeekPwn | GeekPwn | 谷歌安全研究员直呼复杂 ｜ iMessage 零点击漏洞利用细节公开 | https://mp.weixin.qq.com/s/u0O6qBbvGB-l8aqCabGaUQ | 1| 
 | Beacon Tower Lab | WebRAY_BTL | Log4j2远程代码执行漏洞检测和防护策略研究 | https://mp.weixin.qq.com/s/GY-hKl9013pyVd8no0SDHw | 1| 
 | 安全档案 | secfile | log4j 漏洞一些特殊的利用方式 | https://mp.weixin.qq.com/s/vAE89A5wKrc-YnvTr0qaNg | 1| 
 | 一个人的安全笔记 | xjiek2015 | [HTB] Armageddon Writeup | https://mp.weixin.qq.com/s/vizmtNhYW4r-kETt4qJuww | 1| 
