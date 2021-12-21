@@ -141,7 +141,7 @@
 | 赛博英杰 | GeniusCyberTech | 谭晓生：网络空间安全产业如何助力数字化转型 | https://mp.weixin.qq.com/s/pFeEBd_kng7KSGMxSeMRcQ | 1| 
 | 黑白之道 | i77169 | 反弹shell的N种姿势 | https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650523397&idx=2&sn=513d86e5349504d198d3536a4109073d | 10| 
 | 系统安全运维 | Taurus-1314147 | Linux应急响应实战 | https://mp.weixin.qq.com/s?__biz=Mzk0NjE0NDc5OQ==&mid=2247492082&idx=1&sn=4bdc99a1c1e0d14ff1dfa37ec283be47 | 39| 
-| 安全行者老霍 | gh_c2b78e839fd7 | 欧盟网络安全局供应链攻击威胁全景图（下） | https://mp.weixin.qq.com/s/LI_aErTZNl8zcOuextiSuw | 4| 
+| 安全行者老霍 | gh_c2b78e839fd7 | 欧盟网络安全局供应链攻击威胁全景图（下） | https://mp.weixin.qq.com/s/LI_aErTZNl8zcOuextiSuw | 5| 
 | 渗透Xiao白帽 | SuPejkj | 【漏洞速递+检测脚本 , CVE-2021-22005】VMware vCenter Server未授权任意文件上传漏洞 | https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247489920&idx=1&sn=59d92601db758e9d538d5fa444ab8a6b | 16| 
 | XG小刚 | XG_WEB | 权限维持-映像劫持 | https://mp.weixin.qq.com/s?__biz=MzIwOTMzMzY0Ng==&mid=2247486320&idx=1&sn=92fd9c054f554acd16fecc27ee935896 | 6| 
 | LSCteam | gh_d97c073d1479 | CVE-2020-0796检测与修复 | https://mp.weixin.qq.com/s?__biz=MzUyMjAyODU1NA==&mid=2247488492&idx=1&sn=092db036cd48115528a0f5efce139c04 | 8| 
@@ -2813,7 +2813,6 @@
 | mikesart | GPUVis - 可视化的 GPU Trace 工具: | https://github.com/mikesart/gpuvis | None |  | Colorado Springs | None | 41 | 0 | 26 | 64 | 6 | Python,C,C++ | 0 | 0 | 1| 
 | jx-sec | JXWAF(锦衣盾)：基于openresty(nginx+lua)开发的下一代web应用防火墙 | https://github.com/jx-sec/jxwaf | None | 摸鱼 | None | None | 4 | 0 | 17 | 64 | 0 | Python,Lua,C,Shell | 468 | 135 | 1| 
 | joe-shenouda | awesome-cyber-skills:黑客技术训练环境 | https://github.com/joe-shenouda/awesome-cyber-skills | https://nl.linkedin.com/in/josephshenouda | Principal Cyber Analyst at Verizon | The Netherlands | Verizon | 1 | 0 | 56 | 64 | 6 |  | 0 | 0 | 1| 
-| guyoung | 跨平台网络安全工具套件CaptfEncoder V1.2.0 | https://github.com/guyoung/CaptfEncoder | http://www.guyoung.net |  | None | None | 9 | 0 | 77 | 64 | 0 | C#,JavaScript,CSS | 492 | 293 | 1| 
 | felixgr | secure-ios-app-dev - iOS 应用安全开发指南: | https://github.com/felixgr/secure-ios-app-dev | https://github.com/google | information security engineer | Switzerland | @google | 3 | 0 | 142 | 64 | 2 | Python | 0 | 0 | 1| 
 | blue-bird1 | metasploit-cn-wiki: 一些metasploit的中文文档 | https://github.com/blue-bird1/metasploit-cn-wiki | https://github.com/Earth-Online | @Earth-Online | None | None | 7 | 0 | 906 | 64 | 165 | C | 0 | 0 | 1| 
 | ak1t4 | open-redirect-scanner - 任意网址跳转漏洞扫描脚本: | https://github.com/ak1t4/open-redirect-scanner | http://hackerone.com/ak1t4 |  | None | None | 6 | 0 | 0 | 64 | 2 | Python,HTML | 170 | 54 | 1| 
@@ -4088,6 +4087,7 @@
 | hardenedlinux | srcinv: source code audit tool 代码审计工具 | https://github.com/hardenedlinux/srcinv | None | None | None | None | 0 | 0 | 0 | 0 | 0 | HTML,C,Shell,Assembly,Roff,C++,Nix,Zeek,Go | 243 | 56 | 2| 
 | hackingintoyourheart | 本田雅阁、思域等多款车存在密钥重放攻击安全漏洞 | https://github.com/hackingintoyourheart/unoriginal-rice-patty | https://github.com/HackingIntoYourHeart?tab=followers | Computer Scientist... ㅤㅤㅤㅤㅤㅤㅤㅤ BTC: 3NqgZV8MaYDp6B6AJxSs7La9XuMZx8Nuxk ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ETH: 0x65a3CC7D99139000B43EeAe33EdcdCACbaE98524 | Earth | Blake Berry | 17 | 0 | 0 | 0 | 0 | Python,C++ | 0 | 0 | 1| 
 | h4ckdepy | SeveTools:多功能的网络安全实战工具项目库。 | https://github.com/h4ckdepy/SeveTools | https://blog.happysec.cn | 网络安全爱好者。 | None | None | 21 | 0 | 0 | 0 | 0 | Stylus,PHP,JavaScript,CSS | 118 | 66 | 1| 
+| guyoung | CaptfEncoder: 一款跨平台网络安全工具套件 | https://github.com/guyoung/CaptfEncoder | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | guitarman0831 | Onyx:A simple Linux keylogger | https://github.com/guitarman0831/Onyx | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | guillotines | WebShell: Web端WebShell管理器 | https://github.com/guillotines/WebShell | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | guardicore | labs_campaigns 攻击团队IOC信息 | https://github.com/guardicore/labs_campaigns | None | None | None | None | 0 | 0 | 0 | 0 | 0 | C,TypeScript,Java,Python,JavaScript,C++,CoffeeScript,C# | 0 | 0 | 2| 
