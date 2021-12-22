@@ -14,6 +14,7 @@
 # 微信公众号 推荐
 | nickname_english | weixin_no | title | url| 
 | --- | --- | --- | ---| 
+| 安全喷子 | gh_2a9c00f1d053 | 国外网络演习思考 | https://mp.weixin.qq.com/s/cXJM6SXVR-k0pLCqDZqcWQ | 1| 
 | 安全行者老霍 | gh_c2b78e839fd7 | CIS 介绍（下)-CIS Benchmark&CIS 社区防御模型2.0 | https://mp.weixin.qq.com/s/MLfShFRVGJmSALr0zUDohw | 1| 
 | Tide安全团队 | TideSec | 几款小众而实用的远控软件 | https://mp.weixin.qq.com/s/uYpNH2cwjsOoDl6ZTyVtUw | 1| 
 | Moonlight Bug Hunter | gh_1ec00ecad45d | Codeql 挖洞？ | https://mp.weixin.qq.com/s/-4E08dNeCdsc51VLE9qMAQ | 1| 
@@ -32,7 +33,7 @@
 | 安全乐观主义 | gh_d6239d0bb816 | 安全运营项目的工作方法 | https://mp.weixin.qq.com/s/UkOHsg5I6v8JJrsKucEewA | 1| 
 | 乐枕迭代日志 | cdxy_011 | API经济下的安全变局 | https://mp.weixin.qq.com/s/oXHcoLE5WkEer24mz7BqUg | 1| 
 | Yak Project | YakLanguage | 如何使用Yakit进行流量劫持 | https://mp.weixin.qq.com/s/9vVRTehwAhkSLM65JaKiQA | 1| 
-| Netlab 三六零 | Netlab_360 | 解析服务提供商对非授权域名解析情况的评估 | https://mp.weixin.qq.com/s/v5kcg9XZGb8DwtpNgHXRCQ | 1| 
+| Netlab 三六零 | Netlab_360 | 解析服务提供商对非授权域名解析情况的评估 | https://mp.weixin.qq.com/s/v5kcg9XZGb8DwtpNgHXRCQ | 2| 
 | 安全学术圈 | secquan | 利用轻量级权限系统遏制恶意NPM软件包更新 | https://mp.weixin.qq.com/s/XTbY3plfEpuPhYc7KQdnaA | 4| 
 | 金融电子化 | fcmag1993 | 孙磊：数据中心智能安全运营体系建设探索与实践 | https://mp.weixin.qq.com/s/omM1xphG_ie9GDjsu34s3w | 1| 
 | 绿盟科技研究通讯 | nsfocus_research | 原创 , 从研究工控设备到发现供应链威胁 | https://mp.weixin.qq.com/s/-ihOJFNP5OaTy6BNr2uxrA | 1| 
@@ -51,7 +52,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---| 
 | revng | 用于将二进制文件翻译成 LLVM IR 的 revng 工具将启用新的函数边界分析、控制流分析方案 | https://github.com/revng/revng/commit/74a35bca105572d4aa4f5d0fdfde7854c076cc51 | None | None | None | None | 0 | 0 | 0 | 0 | 0 | Python,C,Shell,Assembly,C++ | 0 | 0 | 1| 
 | l0ggg | VMware vCenter 7.0.2.00100 版本任意文件读、SSRF、XSS 漏洞 | https://github.com/l0ggg/VMware_vCenter | https://github.com/l0ggg?tab=followers |  | None | None | 2 | 0 | 0 | 0 | 0 | Java | 0 | 0 | 1| 
-| guyoung | CaptfEncoder: 一款跨平台网络安全工具套件 | https://github.com/guyoung/CaptfEncoder | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
+| guyoung | CaptfEncoder: 一款跨平台网络安全工具套件 | https://github.com/guyoung/CaptfEncoder | https://github.com/guyoung?tab=followers |  | None | None | 15 | 0 | 0 | 0 | 0 | C#,JavaScript | 0 | 0 | 1| 
 | facebook | SAPP - Facebook 开发的用于处理静态代码分析工具 Pysa 分析结果的工具 | https://github.com/facebook/sapp | None | None | None | None | 0 | 0 | 0 | 0 | 0 | None | 0 | 0 | 1| 
 | diversenok | RunAsS4U - 无需密码以其他用户身份执行代码的工具（Windows） | https://github.com/diversenok/NtTools/releases/tag/v1.0-RunAsS4U | https://github.com/diversenok?tab=followers | Aspiring Windows security researcher & system programmer; student. | Russia / The Netherlands | None | 22 | 0 | 0 | 0 | 0 | Pascal,C | 0 | 0 | 1| 
 | RedDrip7 | 使用 Apache Log4j RCE 漏洞发起攻击的源 IP 收集（IOC） | https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs | https://github.com/RedDrip7?tab=followers | Technical Twitter of QiAnXin Technology, leading Chinese security vendor. It is operated by RedDrip Team which focuses on malware, APT and threat intelligence. | China | Qianxin | 7 | 0 | 0 | 0 | 0 | Python | 0 | 0 | 1| 
